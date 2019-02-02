@@ -1,0 +1,10 @@
+/*
+Theme Name: twentyseventeen Child
+Template: twentyseventeen
+*/
+
+@import url(../twentyseventeen/style.css);
+
+li#menu-item-62 {
+    background-color: red;
+}
